@@ -1,0 +1,11 @@
+#one {
+    background-color: black;
+    color: white;
+    border-top: 2px solid tomato;
+    border-bottom: 2px solid tomato;
+    height: 100vh;
+}
+
+.spotlight {
+  border-bottom: 2px solid tomato;
+}
